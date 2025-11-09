@@ -15,4 +15,4 @@ Adds all 7 Emirates to the checkout and hides Flat Rate when Free Shipping is av
 3. That’s it — enjoy UAE-ready WooCommerce shipping!
 
 ## 📜 License
-GPLv2 or later © 2025 [Afsar Al Mahmud](https://skyseekers.ae/)
+GPLv2 or later © 2025 [Afsar Al Mahmud](https://afsarmahmud.com/)
