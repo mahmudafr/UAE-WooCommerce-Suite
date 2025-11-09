@@ -1,12 +1,13 @@
 <?php
 /**
  * Plugin Name: UAE WooCommerce Suite
- * Plugin URI: https://github.com/afsaralmahmud/uae-woocommerce-suite
+ * Plugin URI: https://github.com/mahmudafr/UAE-WooCommerce-Suite
  * Description: Adds UAE emirates (subdivisions) to WooCommerce and hides flat rate when free shipping is available.
  * Version: 1.1
  * Author: Afsar Al Mahmud
  * Author URI: https://afsarmahmud.com/
  * License: GPLv2 or later
+
  * Text Domain: uae-woocommerce-suite
  */
 
