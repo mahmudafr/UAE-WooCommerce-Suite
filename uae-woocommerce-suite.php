@@ -5,7 +5,7 @@
  * Description: Adds UAE emirates (subdivisions) to WooCommerce and hides flat rate when free shipping is available.
  * Version: 1.1
  * Author: Afsar Al Mahmud
- * Author URI: https://skyseekers.ae/
+ * Author URI: https://afsarmahmud.com/
  * License: GPLv2 or later
  * Text Domain: uae-woocommerce-suite
  */
